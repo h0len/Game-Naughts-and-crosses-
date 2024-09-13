@@ -12,4 +12,4 @@
  нолики с целью заполнить линию.
 
 Как работает программа ->
-[Демонстрация работы программы.mov](../../../Desktop/Демонстрация%20работы%20программы.mov)
+https://drive.google.com/file/d/1r0ZdriOJXw6JKSNCMciww-a6mET0tsmt/view?usp=share_link
